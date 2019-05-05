@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a4c34e9-0b71-4d04-bf34-78d0009b3230" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python基础/list和tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python基础/helloword.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/helloword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python基础/list和tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/python基础/list和tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/测试1" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python基础/list和tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="249">
+              <caret line="100" column="7" lean-forward="true" selection-start-line="100" selection-start-column="7" selection-end-line="100" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -49,6 +52,11 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IdeDocumentHistory">
@@ -62,8 +70,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="416" />
-    <option name="y" value="57" />
+    <option name="x" value="415" />
+    <option name="y" value="56" />
     <option name="width" value="1505" />
     <option name="height" value="875" />
   </component>
@@ -155,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1556977567874</updated>
       <workItem from="1556977571309" duration="1011000" />
-      <workItem from="1557059893849" duration="864000" />
+      <workItem from="1557059893849" duration="1184000" />
     </task>
     <task id="LOCAL-00001" summary="2019.5.5更新测试">
       <created>1556978371754</created>
@@ -178,28 +186,34 @@
       <option name="project" value="LOCAL" />
       <updated>1557060146574</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="scz">
+      <created>1557060827463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557060827464</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1875000" />
+    <option name="totallyTimeSpent" value="2195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="333" y="46" width="1204" height="700" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15445027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15445027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32922536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3274648" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3274648" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32922536" />
@@ -259,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python基础/list和tuple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="249">
+          <caret line="100" column="7" lean-forward="true" selection-start-line="100" selection-start-column="7" selection-end-line="100" selection-end-column="7" />
         </state>
       </provider>
     </entry>
