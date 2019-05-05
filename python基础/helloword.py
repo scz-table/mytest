@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time    : 2019/5/4 21:48
-# @Author  : SCZ
-# @File    : helloword.py
 # ！/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # -*- coding: utf-8 -*-

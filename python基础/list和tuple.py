@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2019/5/5 20:52
+# @Time    : 2019/4/23 20:44
 # @Author  : SCZ
 # @File    : list和tuple.py
 
@@ -106,3 +106,4 @@ print(t )
 t[2][0] = 'X'
 t[2][1] = 'Y'
 print(t)
+
